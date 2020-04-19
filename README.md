@@ -20,7 +20,7 @@ See command help and version
 docker run --rm  arjobsen/pdftotext -h
 ```
 
-## External
+## Links
 https://www.mankier.com/1/pdftotext
 
 https://hub.docker.com/_/alpine
